@@ -1,5 +1,5 @@
 {
-  "name": "discovery-channel",
+  "name": "@jimpick/discovery-channel-multicast",
   "version": "5.5.1",
   "description": "discover peers that have hashes using various kewl methods",
   "main": "index.js",
